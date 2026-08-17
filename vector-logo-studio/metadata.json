@@ -1,0 +1,6 @@
+{
+  "name": "Vector Logo Studio",
+  "description": "An AI-powered logo generator that creates animated vector graphics (SVG) based on text descriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
